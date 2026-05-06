@@ -1,0 +1,11 @@
+{
+  "excludedFolders": [
+    "_templates",
+    "_assets",
+    "_guides"
+  ],
+  "includedFolders": [],
+  "publishUnresolvedLinks": false,
+  "publishAllAttachments": false,
+  "publishMarkdownOnly": true
+}

@@ -1,0 +1,25 @@
+/* Force logo dimensions and override background */
+.site-body-left-column-site-logo {
+  display: block;
+  width: 150px;
+  height: 40px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left center;
+  margin: 0 auto 24px auto;
+}
+
+/* Hide the default site name text (wordmark logo already includes it) */
+.site-body-left-column-site-name {
+  display: none;
+}
+
+/* Light mode */
+body.theme-light .site-body-left-column-site-logo {
+  background-image: url('https://publish-01.obsidian.md/access/flowplanner/_assets/flowplanner-logo-light.svg');
+}
+
+/* Dark mode */
+body.theme-dark .site-body-left-column-site-logo {
+  background-image: url('https://publish-01.obsidian.md/access/flowplanner/_assets/flowplanner-logo-dark.svg');
+}
