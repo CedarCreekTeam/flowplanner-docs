@@ -2,7 +2,7 @@
 .site-body-left-column-site-logo {
   display: block;
   width: 150px;
-  height: 40px;
+  height: 50px;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left center;
@@ -16,10 +16,10 @@
 
 /* Light mode */
 body.theme-light .site-body-left-column-site-logo {
-  background-image: url('https://publish-01.obsidian.md/access/flowplanner/_assets/flowplanner-logo-light.svg');
+  background-image: url('https://publish-01.obsidian.md/access/ae996f313d6b29614f89f511c80b2b33/_assets/flowplanner-logo-light.png');
 }
 
 /* Dark mode */
 body.theme-dark .site-body-left-column-site-logo {
-  background-image: url('https://publish-01.obsidian.md/access/flowplanner/_assets/flowplanner-logo-dark.svg');
+  background-image: url('https://publish-01.obsidian.md/access/ae996f313d6b29614f89f511c80b2b33/_assets/flowplanner-logo-dark.png');
 }
