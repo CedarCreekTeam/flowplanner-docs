@@ -19,6 +19,21 @@ What's new in FlowPlanner. Updates are listed newest first.
 
 ### May 2026
 
+**Bulk delete**
+Admins can now select multiple feedback posts and delete them all at once from the bulk action bar. Useful for cleaning up spam, duplicates, or low-quality submissions.
+
+**"Add to roadmap" toggle**
+Any post can now be pinned to your roadmap without changing its status. Use the toggle in the post detail sidebar to feature a post in the Planned column -- handy for posts you want to highlight before you're ready to formally commit to a status.
+
+**Admin status filter in the post list**
+A new filter icon in the post nav panel lets admins quickly narrow the list by status without touching the main filter bar. Click the funnel icon next to the post count to filter by any single status.
+
+**Bug fixes**
+- Fixed an issue where team member invite permissions were not applying correctly for organizations on the Team plan.
+- Fixed an incorrect vote count in the roadmap subtitle.
+
+---
+
 **Theme preference sync across domains**
 Your dark/light mode preference is now saved to your account. It applies on both the main site and your board subdomain, and persists when you sign in on a new device.
 

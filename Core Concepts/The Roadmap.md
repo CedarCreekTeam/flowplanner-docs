@@ -23,7 +23,7 @@ The roadmap organizes posts into three columns:
 | **In Progress** | Posts actively being worked on |
 | **Released** | Posts that have shipped |
 
-Posts with status Open or Closed do not appear on the roadmap.
+Posts with status Open or Closed do not appear on the roadmap by default. Admins can manually pin any post to the Planned column using the **Add to roadmap** toggle in the post detail sidebar.
 
 ---
 
@@ -48,6 +48,8 @@ You don't need to do anything special. Just update the status of existing posts:
 4. It immediately appears on your public roadmap
 
 That's it. [[Updating Statuses|Learn about updating statuses →]]
+
+You can also manually pin a post to the roadmap without changing its status. Click the post to open it, then toggle **Add to roadmap** in the sidebar. The post appears in the Planned column until you remove it or change its status.
 
 ---
 

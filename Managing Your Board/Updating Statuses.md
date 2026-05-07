@@ -56,9 +56,9 @@ When you've decided not to build something, it's a duplicate, or it's out of sco
 In the admin feedback list, you can select multiple posts and update their status in one action:
 
 1. Check the checkbox next to each post you want to update
-2. Click **Bulk action** in the toolbar
-3. Select **Change status**
-4. Pick the new status
+2. A bulk action bar appears at the bottom of the screen
+3. Use the **Set status** dropdown to pick the new status
+4. Click **Apply**
 
 > [!tip] Bulk-close old Open posts periodically
 > If you have posts from a year ago that are still Open and will never be built, batch-closing them with a note ("Closing older posts that aren't on our current roadmap -- please resubmit if this is still relevant to you") keeps your board clean and current.

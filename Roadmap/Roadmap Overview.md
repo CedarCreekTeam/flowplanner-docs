@@ -21,9 +21,9 @@ The roadmap pulls posts directly from your feedback board based on their status:
 - **In Progress** → appears in the In Progress column
 - **Released** → appears in the Released column
 
-Posts with Open or Closed status do not appear on the roadmap.
+Posts with Open or Closed status do not appear by default. You can also manually pin any post to the Planned column using the **Add to roadmap** toggle in the post detail sidebar -- even if its status hasn't changed.
 
-There's nothing to configure -- the roadmap updates the moment you change a status.
+There's nothing to configure -- the roadmap updates the moment you change a status or toggle roadmap visibility.
 
 ---
 
